@@ -1,77 +1,90 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+There+👋,+I'm+A.+Venkata+Siva+Sai;Full+Stack+Developer+%7C+Problem+Solver;AI+%7C+ML+Enthusiast;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm A. Venkata Siva Sai</h1>
+<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=av-sivasai&label=Profile%20Views&color=0e75b6&style=flat" alt="views" /> 
-  <img src="https://img.shields.io/github/followers/av-sivasai?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/av-sivasai?label=Stars&style=social" alt="stars" />
-</p>
+## 👨‍💻 About Me  
+
+- 🌱 Currently learning **AI & ML related technologies**  
+- 💬 Ask me about **Web Development, MERN Stack, and Problem Solving**  
+- 📫 Reach me at: **venkatasivasai2626@gmail.com**  
+- ⚡ Fun fact: *The first computer "bug" was a real bug!*  
 
 ---
 
-## 👨‍💻 About Me
-```ts
-const sivasai: Developer = {
-  name: "A. Venkata Siva Sai",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentFocus: [
-    "Full Stack Projects",
-    "AI & ML",
-    "Competitive Programming"
-  ],
-  interests: [
-    "Web Development",
-    "Problem Solving",
-    "Open Source"
-  ],
-  motto: "Code with passion, debug with patience! 💫"
-};
-🌱 Currently learning AI & ML related technologies
+## 🛠️ Skills  
 
-💬 Ask me about Web Development, MERN Stack, and Problem Solving
+### 💻 Programming Languages  
+- C, C++, Java, Python, JavaScript (ES6+)  
 
-📫 Reach me at: venkatasivasai2626@gmail.com
+### 🎨 Frontend Development  
+- React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Streamlit  
 
-⚡ Fun fact: The first computer "bug" was a real bug!
+### ⚙️ Backend Development  
+- Node.js, Express.js, REST API Development  
 
-🛠️ Tech Stack
-🎨 Frontend
+### 🗄️ Databases  
+- MongoDB, MySQL  
 
-⚙️ Backend
+### 🤖 Machine Learning  
+- Numpy, Pandas, Scikit-learn, Data Preprocessing, Model Optimization  
 
-🗄️ Database
+### 🔧 Tools & Frameworks  
+- Git, Postman, Unity Software, Leaflet.js, Redux Toolkit  
 
-🔧 Tools
+### 📚 Additional Skills  
+- Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPS), Minor in Marketing  
 
-💻 Languages
+---
 
+## 📊 GitHub Analytics  
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=av-sivasai&show_icons=true&theme=tokyonight" alt="stats" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-sivasai&layout=compact&theme=tokyonight" alt="top langs" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=av-sivasai&theme=tokyonight" alt="streak" /> </p> <p align="center"> <img src="https://github-activity-graph.vercel.app/graph?username=av-sivasai&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=av-sivasai&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="trophies" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=av-sivasai&show_icons=true&theme=tokyonight" alt="stats" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-sivasai&layout=compact&theme=tokyonight" alt="top langs" height="160" /> 
+</p>  
 
-📌 Featured Projects
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=av-sivasai&theme=tokyonight" alt="streak" /> 
+</p>  
 
-🔹 AddWise-Tech-Innovations
+<p align="center"> 
+  <img src="https://github-activity-graph.vercel.app/graph?username=av-sivasai&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" /> 
+</p>  
 
-A full-stack MERN web app for secure authentication, QR code generation, and device tracking.
+---
 
-🔹 ai-workout-assistant
+## 🏆 GitHub Trophies  
 
-AI-based pose tracking & repetition counter to assist workouts.
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=av-sivasai&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="trophies" /> 
+</p>  
 
-🔹 EDUBOT-CAPSTONE
+---
 
-Predicting employee attrition risks using ML models.
+## 📌 Featured Projects  
 
-🔹 BloodBank-Backend
+🔹 **[AddWise-Tech-Innovations](https://github.com/av-sivasai/AddWise-Tech-Innovations)**  
+A full-stack MERN web app for secure authentication, QR code generation, and device tracking.  
 
-🔹 BloodBank-Frontend
+🔹 **[ai-workout-assistant](https://github.com/av-sivasai/ai-workout-assistant)**  
+AI-based pose tracking & repetition counter to assist workouts.  
 
-🔹 Campus-Care
+🔹 **[EDUBOT-CAPSTONE](https://github.com/av-sivasai/EDUBOT-CAPSTONE)**  
+Predicting employee attrition risks using ML models.  
+
+🔹 **[BloodBank-Backend](https://github.com/av-sivasai/BloodBank-Backend)**  
+🔹 **[BloodBank-Frontend](https://github.com/av-sivasai/BloodBank-Frontend)**  
+🔹 **[Campus-Care](https://github.com/av-sivasai/Campus-Care)**  
+
+---
+
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="mailto:venkatasivasai2626@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/av-siva-sai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/av-sivasai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>  
+
+---
