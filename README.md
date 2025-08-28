@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [A. Venkata Siva Sai]
-A [Full Stack Developer] from [India]  
-🌱 I’m currently learning [Tech you're exploring]  
-📫 Reach me at: [venkatasivasai2626@gmail.com]  
+# Hi there 👋, I'm A. Venkata Siva Sai
+A Full Stack Developer from India  
+🌱 I’m currently learning Tech you're exploring  
+📫 Reach me at: venkatasivasai2626@gmail.com
 ## Hi there 👋
 
 <!--
