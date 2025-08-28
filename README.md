@@ -1,4 +1,3 @@
-<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20A.%20Venkata%20Siva%20Sai!%20👋&fontAlign=50&fontAlignY=40&color=0:00d9ff,100:ff00ff&animation=twinkling&fontSize=42&fontColor=ffffff" />
 </div>
@@ -23,9 +22,8 @@
 
 <table>
 <tr>
-<td width="50%">
 
-```typescript
+<td width="50%">
 
 ### 🌟 **Quick Facts**
 - 🔭 Working on **Full Stack Projects**
@@ -50,7 +48,7 @@
 <tr>
 <td align="center" width="25%">
 <h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,streamlit" width="200"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" width="200"/>
 <br><br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -73,11 +71,18 @@
 </td>
 
 <td align="center" width="25%">
-<h3>🔧 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,Unity Software, Redux Toolkit, Leaflet.js" width="200"/>
-<br><br>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <h3>🔧 Tools</h3>
+  
+  <!-- Tools supported by skillicons -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" width="250"/>
+
+  <br><br>
+
+  <!-- Extra tools with Shields.io -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </td>
+
 </tr>
 </table>
 
@@ -98,48 +103,37 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=av-sivasai &show_icons=true&count_private=true&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=av-sivasai&show_icons=true&count_private=true&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-sivasai &langs_count=8&layout=compact&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-sivasai&langs_count=8&layout=compact&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=av-sivasai &theme=react&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=av-sivasai &custom_title=Sivasai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=av-sivasai&custom_title=Sivasai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&title_color=00d9ff&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 **Achievements & Trophies**
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=av-sivasai &theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Total%20Commits-1000+-00d9ff?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%20Commits-1000%2B-00d9ff?style=for-the-badge&logo=github" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Total%20PRs-50+-00d9ff?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%20PRs-50%2B-00d9ff?style=for-the-badge&logo=github" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Total%20Issues-25+-00d9ff?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%20Issues-25%2B-00d9ff?style=for-the-badge&logo=github" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Contributed%20to-10+-00d9ff?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Contributed%20to-10%2B-00d9ff?style=for-the-badge&logo=github" />
 </td>
 </tr>
 </table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 **Competitive Programming Profiles**
 
@@ -155,6 +149,8 @@
 </tr>
 </thead>
 <tbody>
+
+<!-- LeetCode -->
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -165,15 +161,27 @@
 <td align="center">
 Dynamic Programming<br>Graph Algorithms
 </td>
+<td align="center">
+Problem Solving<br>Algorithm Challenges
+</td>
 </tr>
+
 <tr>
 <td align="center">
-⭐ Problem Solving<br>🏅 Algorithm Challenges
+⭐ Coding Practice
+</td>
+<td align="center">
+🔥 Daily Streaks
+</td>
+<td align="center">
+150+ Problems Solved
 </td>
 <td align="center">
 Data Structures<br>Mathematics
 </td>
 </tr>
+
+<!-- CodeChef -->
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
@@ -188,22 +196,53 @@ Data Structures<br>Mathematics
 Competitive<br>Programming
 </td>
 </tr>
+
 <tr>
 <td align="center">
-⚡ Algorithm Specialist<br>🎯 Contest Regular
+⚡ Algorithm Specialist
+</td>
+<td align="center">
+🎯 Contest Regular
+</td>
+<td align="center">
+⭐ Solved 300+ Problems
 </td>
 <td align="center">
 Number Theory<br>Combinatorics
 </td>
 </tr>
+
+<!-- General Practice -->
 <tr>
 <td align="center">
-🎯 DSA Practice<br>📚 Learning Journey
+📘 Other Platforms
+</td>
+<td align="center">
+HackerRank / GFG
+</td>
+<td align="center">
+5★ Problem Solving (HR)<br>100+ Problems on GFG
 </td>
 <td align="center">
 Interview Prep<br>System Design
 </td>
 </tr>
+
+<tr>
+<td align="center">
+🎯 DSA Practice
+</td>
+<td align="center">
+📚 Learning Journey
+</td>
+<td align="center">
+Daily Challenges<br>Mock Contests
+</td>
+<td align="center">
+Coding Interviews<br>Problem-Solving Skills
+</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -262,26 +301,6 @@ Other        23 mins         ░░░░░░░░░░░░░░░░░
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 **Daily Motivation**
-
-<div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 **GitHub Contributions**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=av-sivasai &theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&layout=compact" alt="Coding Activity" />
-
-</div>
 
 ---
 
