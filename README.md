@@ -100,17 +100,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=av-sivasai&show_icons=true&count_private=true&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-sivasai&langs_count=8&layout=compact&theme=react&border_color=00d9ff&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=av-sivasai&custom_title=Sivasai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&title_color=00d9ff&area=true" alt="GitHub Activity Graph" />
 
 </div>
