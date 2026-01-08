@@ -72,8 +72,6 @@
 
 <td align="center" width="25%">
   <h3>🔧 Tools</h3>
-  
-  <!-- Tools supported by skillicons -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" width="250"/>
 
   <br><br>
