@@ -63,7 +63,7 @@
 </td>
 
 <td align="center" width="25%">
-<h3>🗄️ Database</h3>
+<h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="200"/>
 <br><br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
