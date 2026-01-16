@@ -25,7 +25,7 @@
 
 <td width="50%">
 
-### 🌟 Quick Facts
+### Quick Facts
 - 🔭 Working on **Full Stack Projects**
 - 🌱 Learning **Advanced DSA & System Design**
 - 💬 Ask me about **Web Development & Problem Solving**
