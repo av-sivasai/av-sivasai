@@ -29,7 +29,7 @@
 - 🔭 Working on **Full Stack Projects**
 - 🌱 Learning **Advanced DSA & System Design**
 - 💬 Ask me about **Web Development & Problem Solving**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/av-siva-sai)**
+-  Reach me at **[LinkedIn](https://www.linkedin.com/in/av-siva-sai)**
 -  Fun fact: *The first computer "bug" was a real bug!* 
 
 </td>
